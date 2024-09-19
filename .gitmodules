@@ -1,0 +1,3 @@
+[submodule "src/nim-deploy"]
+	path = src/nim-deploy
+	url = https://github.com/NVIDIA/nim-deploy.git
